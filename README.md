@@ -72,8 +72,8 @@ The data comes from two Portuguese secondary schools, and it includes student gr
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arijit258/student-exam-score-prediction.git
-    cd student-exam-score-prediction
+    git clone https://github.com/arijit258/Student-Exam-Score-Prediction.git
+    cd Student-Exam-Score-Prediction
     ```
 
 2. Install the required libraries:
